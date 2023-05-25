@@ -63,8 +63,8 @@
 [twitter]: https://twitter.com/jaymistry4
 [youtube]: https://youtube.com/jaymistry4
 [instagram]: https://instagram.com/jaymistry4
-[linkedin]: https://linkedin.com/in/jaymistry4
+[linkedin]: https://www.linkedin.com/in/jaymistry4
 [webdevplaylist]: https://www.linkedin.com/in/jaymistry4
-[jsplaylist]: https://linkedin.com/in/jaymistry4
-[cssplaylist]: https://linkedin.com/in/jaymistry4
-[reactplaylist]: https://linkedin.com/in/jaymistry4
+[jsplaylist]: https://www.linkedin.com/in/jaymistry4
+[cssplaylist]: https://www.linkedin.com/in/jaymistry4
+[reactplaylist]: https://www.linkedin.com/in/jaymistry4
