@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on Web and Cloud Technologies
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking to colloborate on community contributors
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and click photos
 - 😃 Owner of [Gujarati Samaj Matrimony](http://www.gujaratisamajmatrimony.com/) and [Yuva Suthar Seva Samaj](http://yuvasutharsevasamaj.org/) website.
 - 💼  Any freelance work? do reach,  [email](mailto:jayu412@gmail.com)  😃
