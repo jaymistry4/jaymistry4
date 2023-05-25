@@ -65,6 +65,6 @@
 [instagram]: https://instagram.com/jaymistry4
 [linkedin]: https://linkedin.com/in/jaymistry4
 [webdevplaylist]: https://www.linkedin.com/in/jaymistry4
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[jsplaylist]: https://linkedin.com/in/jaymistry4
+[cssplaylist]: https://linkedin.com/in/jaymistry4
+[reactplaylist]: https://linkedin.com/in/jaymistry4
